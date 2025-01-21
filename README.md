@@ -1,7 +1,8 @@
 # MINSTDataLoading
 
-Members: - Jamillah Ssozi
-         - Mugisha Kenny Kevin
+Members: 
+- Jamillah Ssozi
+- Mugisha Kenny Kevin
 
 Colab Participation Screenshot
 
